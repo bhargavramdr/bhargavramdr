@@ -1,9 +1,9 @@
 •👋 Hi, I’m @bhargavramdr
 
-•👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Data Analysis.
+•👀 I’m interested in Data Analysis, Data Science, Machine Learning, and Deep Learning.
 
-•I’m looking to collaborate on anything even remotely related to data science, machine learning, deep learning.
-     If anybody's looking for some help in any research papers they are working on, or the project they are working on, don’t hesitate and consider reaching out to me.
+•I’m looking to collaborate on anything even remotely related to data science, machine learning, and deep learning.
+     If anybody's looking for some help with any research papers they are working on, or the project they are working on, don’t hesitate and consider reaching out to me.
      
 •📫 You can reach me through email: bhargavramdr@gmail.com, or through phone: 7899982886 (this is also my WhatsApp no.). 
     Available 24/7. Don’t hesitate to reach out.
