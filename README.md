@@ -1,4 +1,4 @@
-•👋 Hi, I’m @bhargavramdr
+•👋 Hi, I’m Bhargav
 
 •👀 I’m interested in Data Analysis, Data Science, Machine Learning, and Deep Learning.
 
@@ -6,7 +6,6 @@
      If anybody's looking for some help with any research papers they are working on, or the project they are working on, don’t hesitate and consider reaching out to me.
      
 •📫 You can reach me through email: bhargavramdr@gmail.com, or through phone: 7899982886 (this is also my WhatsApp no.). 
-    Available 24/7. Don’t hesitate to reach out.
 
 <!---
 bhargavramdr/bhargavramdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
